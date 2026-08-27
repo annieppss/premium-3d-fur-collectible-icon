@@ -1,0 +1,4 @@
+interface:
+  display_name: "Premium 3D Fur Collectible Icon"
+  short_description: "Create premium furry 3D collectible characters"
+  default_prompt: "Use $premium-3d-fur-collectible-icon to create a premium 3D collectible character with short, carefully groomed fur."
